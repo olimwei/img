@@ -1,1 +1,1 @@
-img.olim.cc
+img.olim.in
